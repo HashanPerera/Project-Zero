@@ -1,0 +1,26 @@
+input{
+    box-shadow: 5px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+}
+
+form{
+    /* align-content: center; */
+    text-align: center;
+    margin-top: 100px;
+    max-width: auto;
+}
+
+body{
+    background-color: aqua;
+}
+
+th, td {
+    border: 2px solid;    
+    padding: 10px;
+}
+
